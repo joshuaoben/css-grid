@@ -1,0 +1,50 @@
+body{
+	background: #000;
+	color: #fefefe;
+}
+.grid-container{
+	display: grid;
+	grid-template-columns: repeat(12, 8.3%);
+	grid-template-rows: 100px 500px 100px;
+}
+.grid-element{
+	padding: 20px;
+	font-size: 2em;
+	background-color: #726;
+}
+.item-1{
+	background-color: #128;
+}
+.item-2{
+	background-color: #318;
+}
+.item-3{
+	background-color: #922;
+}
+.item-4{
+	background-color: #928;
+}
+.item-5{
+	background-color: #148;
+}
+.item-6{
+	background-color: #641;
+}
+.item-7{
+	background-color: #623;
+}
+.item-8{
+	background-color: #346;
+}
+.item-9{
+	background-color: #292;
+}
+.item-10{
+	background-color: #390;
+}
+.item-11{
+	background-color: #092;
+}
+.item-12{
+	background-color: #927;
+}
